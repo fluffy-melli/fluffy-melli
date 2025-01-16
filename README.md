@@ -1,4 +1,18 @@
-## 🐍 Python,  🌐 JavaScript,  🟣 Kotlin,  🟩 Go,  💻 C++,  🌍 HTML/CSS
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=go)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Web
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-000000?style=flat-square&logo=gin&logoColor=white)
+
+### Container
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
+
 
 ![stats](https://github-readme-stats.vercel.app/api?username=fluffy-melli&count_private=true&show_icons=true)
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fluffy-melli&layout=compact&langs_count=8)
