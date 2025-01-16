@@ -1,5 +1,5 @@
 ### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=go)
+![Go](https://img.shields.io/badge/Go-3178C6.svg?style=flat&logo=go)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
