@@ -5,9 +5,23 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Web
+### Backend
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white
+)
 ![Gin](https://img.shields.io/badge/-Gin-000000?style=flat-square&logo=gin&logoColor=white)
+
+### Frontend
+![Vue](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white
+)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white
+)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white
+)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Container
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
